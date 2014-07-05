@@ -1,0 +1,11 @@
+[u'A I you me love Alexander McQueen Models  Embroidered Sequined Skull Smoking Slipp httptco6TNh2t6EvH myfirstTweet LOVE', u'kamu tidak bisa mendengarnya karena aku hanya berteriak itu di dalam hatiku yourebeautiful']
+[u'A', u'I', u'you', u'me', u'love', u'Alexander', u'Models', u'myfirstTweet', u'LOVE', u'you']
+you 4
+me 2
+A 1
+myfirstTweet 1
+love 1
+I 1
+Models 1
+LOVE 1
+Alexander 1
